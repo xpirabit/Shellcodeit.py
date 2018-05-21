@@ -1,3 +1,3 @@
 # Shellcodeit.py
 
-![Alt text](xpirabit/Shellcodeit.py/blob/master/images/menu.png?raw=true "Menu")
+![Alt text](/Shellcodeit.py/blob/master/images/menu.png?raw=true "Menu")
